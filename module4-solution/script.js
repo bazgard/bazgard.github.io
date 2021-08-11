@@ -1,14 +1,14 @@
 var names=new Array();
-names[0]="Mehdi";
+names[0]="Yaakov";
 names[1]="John";
-names[2]="Jasminn";
-names[3]="Jooker";
-names[4]="Leon";
-names[5]="Martin";
-names[6]="javad";
-names[7]="Anahita";
-names[8]="Joseph";
-names[9]="Sara";
+names[2]="Jen";
+names[3]="Jason";
+names[4]="Paul";
+names[5]="Frank";
+names[6]="Larry";
+names[7]="Paula";
+names[8]="Laura";
+names[9]="Jim";
 
 
 function HelloGoodbye () {
@@ -23,3 +23,4 @@ for (var i = 0; i < names.length; i++) {
 	}
  }	
 }
+
